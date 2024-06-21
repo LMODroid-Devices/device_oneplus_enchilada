@@ -16,8 +16,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_enchilada.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_enchilada-user \
-    lmodroid_enchilada-userdebug \
-    lmodroid_enchilada-eng
